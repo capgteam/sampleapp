@@ -7,5 +7,10 @@ public class SalesClass {
 		for(int num:arr)
 			System.out.println(num);
 	}
+	
+	public void print() {
+		System.out.println("Print All Array Number:");
+		display();
+	}
 
 }
