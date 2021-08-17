@@ -13,5 +13,9 @@ public class MainClass {
 		
 		greetUser();
 	}
+	
+	public void display() {
+		
+	}
 
 }
