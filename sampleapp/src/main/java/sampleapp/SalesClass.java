@@ -9,7 +9,7 @@ public class SalesClass {
 			sum+=num;
 			System.out.println(num);
 		}
-		
+		System.out.println("Array Size:" + arr.length);
 		System.out.println("Summation:" + sum);
 	}
 	
