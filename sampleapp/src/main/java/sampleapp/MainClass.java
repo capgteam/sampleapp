@@ -5,6 +5,7 @@ public class MainClass {
 public static void main(String[] args) {
 		display();
 		System.out.println("Hello World!");
+		System.out.println("Good AfterNoon");
 	}
 	
 	
