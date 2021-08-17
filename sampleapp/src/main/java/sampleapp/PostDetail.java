@@ -6,5 +6,9 @@ public class PostDetail {
 	String postname;
 	LocalDate postdate;
 	
+	public void show() {
+		System.out.println("Show method ......");
+	}
+	
 
 }
